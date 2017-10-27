@@ -36,6 +36,6 @@ remoting service by indicating IP and port.
 
 [Java RMI](https://docs.oracle.com/javase/tutorial/rmi/index.html)
 
-[rmi.codebase](https://docs.oracle.com/javase/8/docs/technotes/guides/rmi/codebase.html)
+[java.rmi.codebase](https://docs.oracle.com/javase/8/docs/technotes/guides/rmi/codebase.html)
 
 
